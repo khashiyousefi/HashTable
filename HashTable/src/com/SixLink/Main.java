@@ -5,7 +5,7 @@ import java.util.Map;
 public class Main {
 
     public static void main(String[] args) {
-        String value = "mamamiya";
+        String value = "a xgreene apple";
         FirstNonRepeating map = new FirstNonRepeating();
         var result = map.FirstNonRepeat(value);
         System.out.println(result);
